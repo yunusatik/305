@@ -1,8 +1,8 @@
 class Color_enesKzlcn extends Animator  {
     constructor() {
         super();
-        this.author = 'Small Simple'
-        this.desc = 'Simple digital clock'
+        this.author = 'Nazif Enes Kızılcin'
+        this.desc = 'A Colorful Square Draws Square'
         let x0 = "translate(0,0)", x1 = "translate(400px,0)",x2="translate(400px,400px)",x3="translate(0,400px)"
         let c = ["red", "black", "white", "blue","green"]
         this.anim = { 
@@ -14,4 +14,5 @@ class Color_enesKzlcn extends Animator  {
         this.time = 1000
     }
     update() { } 
+
 }
