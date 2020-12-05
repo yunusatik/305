@@ -1,4 +1,4 @@
-class Star_KACI extends Animator  {
+class DVD_KACI extends Animator  {
     constructor() {
         super();
         this.author = 'Abdussamet KACI'
